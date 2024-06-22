@@ -1,16 +1,3 @@
-# fruits_memory
+# Fruits Memory
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Fruits Memory is an exciting and simple memory game built with Flutter. Test and improve your memory by recalling the sequence of fruits that appear on the screen. Each level introduces a longer sequence to remember, making the game progressively more difficult. Sharpen your mind and have fun with Fruits Memory!
